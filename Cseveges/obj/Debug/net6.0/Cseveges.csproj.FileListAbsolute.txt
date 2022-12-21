@@ -1,0 +1,15 @@
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\bin\Debug\net6.0\Cseveges.exe
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\bin\Debug\net6.0\Cseveges.deps.json
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\bin\Debug\net6.0\Cseveges.runtimeconfig.json
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\bin\Debug\net6.0\Cseveges.dll
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\bin\Debug\net6.0\Cseveges.pdb
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\obj\Debug\net6.0\Cseveges.csproj.AssemblyReference.cache
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\obj\Debug\net6.0\Cseveges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\obj\Debug\net6.0\Cseveges.AssemblyInfoInputs.cache
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\obj\Debug\net6.0\Cseveges.AssemblyInfo.cs
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\obj\Debug\net6.0\Cseveges.csproj.CoreCompileInputs.cache
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\obj\Debug\net6.0\Cseveges.dll
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\obj\Debug\net6.0\refint\Cseveges.dll
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\obj\Debug\net6.0\Cseveges.pdb
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\obj\Debug\net6.0\Cseveges.genruntimeconfig.cache
+C:\Users\mobvadasz1337\source\repos\Cseveges\Cseveges\obj\Debug\net6.0\ref\Cseveges.dll

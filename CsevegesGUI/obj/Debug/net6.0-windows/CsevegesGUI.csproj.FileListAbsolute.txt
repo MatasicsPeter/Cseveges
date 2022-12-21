@@ -1,0 +1,17 @@
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\obj\Debug\net6.0-windows\CsevegesGUI.csproj.AssemblyReference.cache
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\obj\Debug\net6.0-windows\CsevegesGUI.csproj.GenerateResource.cache
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\obj\Debug\net6.0-windows\CsevegesGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\obj\Debug\net6.0-windows\CsevegesGUI.AssemblyInfoInputs.cache
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\obj\Debug\net6.0-windows\CsevegesGUI.AssemblyInfo.cs
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\obj\Debug\net6.0-windows\CsevegesGUI.csproj.CoreCompileInputs.cache
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\bin\Debug\net6.0-windows\CsevegesGUI.exe
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\bin\Debug\net6.0-windows\CsevegesGUI.deps.json
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\bin\Debug\net6.0-windows\CsevegesGUI.runtimeconfig.json
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\bin\Debug\net6.0-windows\CsevegesGUI.dll
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\bin\Debug\net6.0-windows\CsevegesGUI.pdb
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\obj\Debug\net6.0-windows\CsevegesGUI.dll
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\obj\Debug\net6.0-windows\refint\CsevegesGUI.dll
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\obj\Debug\net6.0-windows\CsevegesGUI.pdb
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\obj\Debug\net6.0-windows\CsevegesGUI.genruntimeconfig.cache
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\obj\Debug\net6.0-windows\ref\CsevegesGUI.dll
+C:\Users\mobvadasz1337\source\repos\Cseveges\CsevegesGUI\obj\Debug\net6.0-windows\CsevegesGUI.Form1.resources
